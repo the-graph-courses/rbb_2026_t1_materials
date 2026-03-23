@@ -182,8 +182,6 @@ c.  Finally, create a GROUPED bar chart with any two categorical variables of yo
 
 Once you have finished the tasks above, you should save your answers and upload your assignment Rmd on the workshop webpage. You should upload just one Rmd file with your answers (do not upload the knitted HTML or a zipped folder). Make sure to include your name in the YAML header at the top of the script.
 
-The due date for the assignment is **Friday, September 13th at 23:59 PM GMT.**
-
 # Bonus challenge: Donut charts
 
 Represent the data from your grouped bar chart as a series of donut charts.
